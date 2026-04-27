@@ -1,4 +1,4 @@
-# Fuzzy Sphere VQE — companion code for *Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces*
+# Fuzzy Sphere Ising VQE — companion code for *Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces*
 
 This repository contains the Jupyter notebook accompanying the paper
 
