@@ -1,10 +1,17 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2605.xxxxx-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.xxxxx)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3110/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?logo=jupyter)](https://jupyter.org/)
+[![PennyLane](https://img.shields.io/badge/PennyLane-blueviolet.svg?logo=pennylane&logoColor=white)](https://pennylane.ai/)
+[![OpenFermion](https://img.shields.io/badge/OpenFermion-orange.svg?logo=google&logoColor=white)](https://quantumai.google/openfermion)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Fuzzy Sphere Ising VQE — companion code for *Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces*
 
 This repository contains the Jupyter notebook accompanying the paper
 
 > **Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces**  
 > Andreas Stergiou and Nicolas PD Sawaya (2026)  
-> [arXiv:2604.XXXXX [quant-ph]] *(link to be added)*
+> [arXiv:2605.xxxxx [quant-ph]](https://arxiv.org/abs/2605.xxxxx)
 
 ## Overview
 
@@ -88,10 +95,10 @@ If you use this code, please cite the paper:
 @article{Stergiou:2026dts,
     author  = {Stergiou, Andreas and Sawaya, Nicolas P. D.},
     title   = {{Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces}},
-    eprint = "2604.xxxxx",
+    eprint = "2605.xxxxx",
     archivePrefix = "arXiv",
     primaryClass = "quant-ph",
-    month = "4",
+    month = "5",
     year = "2026"
 }
 ```
